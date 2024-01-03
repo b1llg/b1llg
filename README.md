@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, my name is Billy and I'm a finite element analyst.
+- 🔭 I’m currently working as a finite element analyst using Optistruct and Radioss
+- 🌱 I’m currently learning C++ as I want to develop my own FE tools and solvers
+- 👯 I’m looking to collaborate on finite element project either in Fortran or C++
 <!--
 **b1llg/b1llg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
