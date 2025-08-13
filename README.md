@@ -8,8 +8,7 @@
 
 ## Languages:
 - Python 
-- C++ (In the process of mastering this language)
-- Matlab
+- C++
 - Fortran
 
 <!--
